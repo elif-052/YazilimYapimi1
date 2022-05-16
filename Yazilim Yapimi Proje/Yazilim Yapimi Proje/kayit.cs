@@ -52,7 +52,7 @@ namespace Yazilim_Yapimi_Proje
             }
             catch(Exception hata)
             {
-                MessageBox.Show("Kayıt Gerçekleştirilememistir");
+                MessageBox.Show("Kayıt Gerçekleştirilememiştir");
             }
         }
 
