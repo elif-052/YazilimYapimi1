@@ -1,0 +1,38 @@
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe.config
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.pdb
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.AssemblyReference.cache
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.admin.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.anafrm.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.ogrenci.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.Properties.Resources.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sorumlu.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.GenerateResource.cache
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.exe
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.pdb
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.kayit.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sifre.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sinavsec.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sinav.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.soruekle.resources
+C:\Users\Muhammet\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.ogrenciliste.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe.config
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.pdb
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.admin.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.anafrm.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.kayit.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.ogrenci.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.ogrenciliste.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sifre.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sinav.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sinavsec.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.soruekle.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.sorumlu.resources
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.exe
+C:\Users\LENOVO\Desktop\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.pdb
